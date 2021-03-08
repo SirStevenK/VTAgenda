@@ -1,0 +1,19 @@
+{
+  "primary": "#4b6584",
+  "secondary": "#eb3b5a",
+  "darkText": "#273545",
+  "light": "#f0f0f0",
+  "background": "#2d3436",
+
+  "main": "#d1d8e0",
+  "back": "#a5b1c2",
+  "border": "#778ca3",
+
+  "black": "#000000",
+  "white": "#ffffff",
+
+  "special_cm": "#eb3b5a",
+  "special_td": "#f7b731",
+  "special_tp": "#0fb9b1",
+  "special_other": "#20bf6b"
+}
